@@ -1,2 +1,2 @@
-# poem-generator-
-Paying homage to my undergrad major 
+# Poem Generator
+Paying homage to my undergrad major...
