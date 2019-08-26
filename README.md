@@ -11,4 +11,4 @@ Books (via Project Gutenberg) that make up the training text:
 4. *War of the Worlds* by H.G. Wells 
 5. *The Last Man* by Mary Shelley
 
-![scificovers](/Nick/scifi.png)
+![Covers cause they're badass](/Users/Nick/scifi.png)
