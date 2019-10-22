@@ -1,7 +1,7 @@
 # Sci-Fi Poem Generator
 Paying homage to my undergrad major...
 
-I love poetry and sci-fi. I decided to do a fun twist on a random word generator. The generator is trained on simple markov chains. I realize there's only a few good sentences in here I'm going to be constantly tuning and improving until it spits out the most beautiful space poetry in the the doggam universe. 
+I love poetry and sci-fi. I decided to do a fun twist on a random word generator. The generator is trained on simple markov chains. I realize there's only a few good sentences in here. Next, I'm going to be using an RNN trained w/ Tensorflow/Keras to tune and improve the model until it spits out the most beautiful space poetry in the the doggam universe. 
 
 Books (via Project Gutenberg) that make up the training text:
 
